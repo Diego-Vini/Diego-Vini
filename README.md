@@ -1,4 +1,4 @@
-### Bem Vindo ao meu perfil Diego-Vini 👋
+### Seja Bem Vindo(a) ao Perfil Diego-Vini 👋
 
 <!--
 **Diego-Vini/Diego-Vini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
