@@ -2,7 +2,8 @@
 
 🚀 Sobre Mim 🔝
 
-<strong>Estudante de Engenharia da Computação pela Univesp e Trybe.</strong>
+<strong>Estudante de Engenharia da Computação pela Univesp.</strong>
+<strong>Fazendo especialização em desenvolvimento de software web pela Tybe.</strong>
 
 📱 Informações de Contato e Social 🔝
 
