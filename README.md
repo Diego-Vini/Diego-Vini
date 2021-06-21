@@ -2,7 +2,7 @@
 
 🚀 Sobre Mim 🔝
 
-<strong>Estudante de Engenharia da Computação pela Univesp.</strong>
+<strong>Estudante de Engenharia da Computação pela Univesp.</strong><br>
 <strong>Fazendo especialização em desenvolvimento de software web pela Tybe.</strong>
 
 📱 Informações de Contato e Social 🔝
