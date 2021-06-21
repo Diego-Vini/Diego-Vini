@@ -2,7 +2,7 @@
 
 🚀 Sobre Mim 🔝
 
-<strong>Estudante de desenvolvimento de software web pela Univesp e Trybe.</strong>
+<strong>Estudante de Engenharia da Computação pela Univesp e Trybe.</strong>
 
 📱 Informações de Contato e Social 🔝
 
